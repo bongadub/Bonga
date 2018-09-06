@@ -1,0 +1,51 @@
+
+2018-09-06 13:33:52.363661 'successful login' test logs with driver = chrome
+
+2018-09-06 13:33:47.026000	WARNING	http://newtours.demoaut.com/mercurysignon.php/login - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.
+2018-09-06 13:33:47.913000	SEVERE	http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2018-09-06 13:33:49.210000	WARNING	deprecation - Extra form data if value attribute is present with non-empty value for <input type='image'> is deprecated and will be removed in M68, around July 2018. See https://www.chromestatus.com/features/5672688152477696 for more details.
+2018-09-06 13:33:49.697000	SEVERE	http://newtours.demoaut.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+2018-09-06 13:33:50.371000	WARNING	http://newtours.demoaut.com/mercurysignon.php/login.php - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.
+2018-09-06 13:33:52.208000	SEVERE	http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+
+2018-09-06 13:38:11.847656 'successful login' test logs with driver = chrome
+
+2018-09-06 13:38:09.019000	WARNING	http://newtours.demoaut.com/mercurysignon.php/login - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.
+2018-09-06 13:38:09.709000	SEVERE	http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2018-09-06 13:38:10.473000	WARNING	deprecation - Extra form data if value attribute is present with non-empty value for <input type='image'> is deprecated and will be removed in M68, around July 2018. See https://www.chromestatus.com/features/5672688152477696 for more details.
+2018-09-06 13:38:10.480000	SEVERE	http://newtours.demoaut.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+2018-09-06 13:38:11.269000	WARNING	http://newtours.demoaut.com/mercurysignon.php/login.php - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.
+2018-09-06 13:38:11.597000	SEVERE	http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+
+2018-09-06 14:23:48.543250 'successful login' test logs with driver = chrome
+
+2018-09-06 14:23:47.255000	WARNING	http://newtours.demoaut.com/mercurysignon.php/login - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.
+2018-09-06 14:23:47.703000	SEVERE	http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2018-09-06 14:23:48.532000	SEVERE	http://newtours.demoaut.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+
+2018-09-06 14:35:48.497131 'successful login' test logs with driver = chrome
+
+2018-09-06 14:35:47.285000	WARNING	http://newtours.demoaut.com/mercurysignon.php/login - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.
+2018-09-06 14:35:48.134000	SEVERE	http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2018-09-06 14:35:48.486000	SEVERE	http://newtours.demoaut.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+
+2018-09-06 14:37:09.789146 'successful login' test logs with driver = chrome
+
+2018-09-06 14:37:08.715000	WARNING	http://newtours.demoaut.com/mercurysignon.php/login - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.
+2018-09-06 14:37:09.059000	SEVERE	http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2018-09-06 14:37:09.777000	SEVERE	http://newtours.demoaut.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+
+2018-09-06 14:38:20.231078 'successful login' test logs with driver = chrome
+
+2018-09-06 14:38:19.119000	WARNING	http://newtours.demoaut.com/mercurysignon.php/login - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.
+2018-09-06 14:38:19.407000	SEVERE	http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+2018-09-06 14:38:20.219000	SEVERE	http://newtours.demoaut.com/favicon.ico - Failed to load resource: the server responded with a status of 404 (Not Found)
+
+2018-09-06 14:42:01.322243 'successful login' test logs with driver = chrome
+
+2018-09-06 14:42:00.219000	WARNING	http://newtours.demoaut.com/mercurysignon.php/login - This page includes a password or credit card input in a non-secure context. A warning has been added to the URL bar. For more information, see https://goo.gl/zmWq3m.
+2018-09-06 14:42:00.537000	SEVERE	http://newtours.demoaut.com/images/spacer.gif - Failed to load resource: the server responded with a status of 404 (Not Found)
+
+2018-09-06 15:14:08.710023 'successful login' test logs with driver = chrome
+
+2018-09-06 15:14:03.521000	SEVERE	http://automationpractice.com/login - Failed to load resource: the server responded with a status of 404 (Not Found)

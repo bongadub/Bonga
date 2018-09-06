@@ -1,0 +1,575 @@
+DEBUG   2018-09-06 13:29:31,357 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 13:29:31,357 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 13:29:31,361 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 13:29:31,361 [config_driver] Chrome driver path given in properties: 
+ERROR   2018-09-06 13:29:31,376 [config_driver] Chrome driver can not be launched: Message: '' executable may have wrong permissions. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+ERROR   2018-09-06 13:29:31,378 [environment] The scenario 'successful login' has failed
+DEBUG   2018-09-06 13:29:31,382 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 13:29:31,382 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 13:29:31,384 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 13:29:31,385 [config_driver] Chrome driver path given in properties: 
+ERROR   2018-09-06 13:29:31,395 [config_driver] Chrome driver can not be launched: Message: '' executable may have wrong permissions. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+ERROR   2018-09-06 13:29:31,396 [environment] The scenario 'successful logout' has failed
+DEBUG   2018-09-06 13:30:41,679 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 13:30:41,679 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 13:30:41,683 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 13:30:41,683 [config_driver] Chrome driver path given in properties: 
+ERROR   2018-09-06 13:30:41,696 [config_driver] Chrome driver can not be launched: Message: '' executable may have wrong permissions. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+ERROR   2018-09-06 13:30:41,697 [environment] The scenario 'successful login' has failed
+DEBUG   2018-09-06 13:30:41,702 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 13:30:41,702 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 13:30:41,704 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 13:30:41,705 [config_driver] Chrome driver path given in properties: 
+ERROR   2018-09-06 13:30:41,715 [config_driver] Chrome driver can not be launched: Message: '' executable may have wrong permissions. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+ERROR   2018-09-06 13:30:41,717 [environment] The scenario 'successful logout' has failed
+DEBUG   2018-09-06 13:31:11,643 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 13:31:11,643 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 13:31:11,647 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 13:31:11,647 [config_driver] Chrome driver path given in properties: 
+ERROR   2018-09-06 13:31:11,660 [config_driver] Chrome driver can not be launched: Message: '' executable may have wrong permissions. Please see https://sites.google.com/a/chromium.org/chromedriver/home
+ERROR   2018-09-06 13:31:11,661 [environment] The scenario 'successful login' has failed
+DEBUG   2018-09-06 13:31:43,394 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 13:31:43,395 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 13:31:43,399 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 13:31:43,399 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 13:31:45,046 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 13:31:45,151 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 13:31:45,152 [environment] Running new scenario: successful login
+DEBUG   2018-09-06 13:31:46,958 [login] Login with user 'tutorial'
+INFO    2018-09-06 13:31:48,701 [environment] The scenario 'successful login' has passed
+DEBUG   2018-09-06 13:33:44,159 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 13:33:44,159 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 13:33:44,163 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 13:33:44,164 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 13:33:45,831 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 13:33:45,938 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 13:33:45,942 [environment] Running new scenario: successful login
+DEBUG   2018-09-06 13:33:48,860 [login] Login with user 'tutorial'
+ERROR   2018-09-06 13:33:52,219 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 13:33:52,358 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_133344_chrome/01_successful_login.png
+DEBUG   2018-09-06 13:33:52,360 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 13:38:06,389 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 13:38:06,389 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 13:38:06,393 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 13:38:06,393 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 13:38:08,019 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 13:38:08,126 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 13:38:08,128 [environment] Running new scenario: successful login
+DEBUG   2018-09-06 13:38:10,128 [login] Login with user 'tutorial'
+ERROR   2018-09-06 13:38:11,691 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 13:38:11,843 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_133806_chrome/01_successful_login.png
+DEBUG   2018-09-06 13:38:11,844 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 13:38:57,235 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 13:38:57,235 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 13:38:57,239 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 13:38:57,239 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 13:38:58,865 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 13:38:58,973 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 13:38:58,975 [environment] Running new scenario: successful login
+INFO    2018-09-06 13:39:00,921 [environment] The scenario 'successful login' has passed
+DEBUG   2018-09-06 13:42:45,238 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 13:42:45,238 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 13:42:45,242 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 13:42:45,242 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 13:42:46,883 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 13:42:46,989 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 13:42:46,991 [environment] Running new scenario: successful login
+INFO    2018-09-06 13:42:54,370 [environment] The scenario 'successful login' has passed
+DEBUG   2018-09-06 13:43:52,791 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 13:43:52,791 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 13:43:52,795 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 13:43:52,795 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 13:43:54,451 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 13:43:54,558 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 13:43:54,562 [environment] Running new scenario: successful login
+INFO    2018-09-06 13:44:08,540 [environment] The scenario 'successful login' has passed
+DEBUG   2018-09-06 13:45:59,026 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 13:45:59,027 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 13:45:59,031 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 13:45:59,031 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 13:46:01,675 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 13:46:01,779 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 13:46:01,782 [environment] Running new scenario: successful login
+INFO    2018-09-06 13:46:05,001 [environment] The scenario 'successful login' has passed
+DEBUG   2018-09-06 13:46:51,977 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 13:46:51,977 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 13:46:51,981 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 13:46:51,981 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 13:46:53,599 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 13:46:53,702 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 13:46:53,703 [environment] Running new scenario: successful login
+ERROR   2018-09-06 13:47:03,714 [page_element] Page element of type 'Button' with locator ('name', 'login') not found or is not clickable after 10 seconds
+ERROR   2018-09-06 13:47:03,721 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 13:47:03,847 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_134651_chrome/01_successful_login.png
+DEBUG   2018-09-06 13:47:03,849 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 13:50:20,421 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 13:50:20,421 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 13:50:20,425 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 13:50:20,425 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 13:50:22,067 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 13:50:22,173 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 13:50:22,174 [environment] Running new scenario: successful login
+ERROR   2018-09-06 13:50:22,177 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 13:50:22,362 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_135020_chrome/01_successful_login.png
+DEBUG   2018-09-06 13:50:22,363 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 13:50:50,165 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 13:50:50,165 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 13:50:50,169 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 13:50:50,169 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 13:50:51,800 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 13:50:51,907 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 13:50:51,912 [environment] Running new scenario: successful login
+ERROR   2018-09-06 13:50:51,916 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 13:50:52,093 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_135050_chrome/01_successful_login.png
+DEBUG   2018-09-06 13:50:52,094 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 13:53:46,969 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 13:53:46,969 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 13:53:46,973 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 13:53:46,973 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 13:53:48,643 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 13:53:48,749 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 13:53:48,753 [environment] Running new scenario: successful login
+ERROR   2018-09-06 13:53:48,759 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 13:53:48,933 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_135346_chrome/01_successful_login.png
+DEBUG   2018-09-06 13:53:48,935 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 14:00:54,836 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 14:00:54,836 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 14:00:54,840 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 14:00:54,840 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 14:00:56,536 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 14:00:56,640 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 14:00:56,641 [environment] Running new scenario: successful login
+ERROR   2018-09-06 14:00:56,643 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 14:00:56,807 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_140054_chrome/01_successful_login.png
+DEBUG   2018-09-06 14:00:56,809 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 14:01:26,879 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 14:01:26,879 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 14:01:26,883 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 14:01:26,883 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 14:01:28,547 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 14:01:28,657 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 14:01:28,659 [environment] Running new scenario: successful login
+ERROR   2018-09-06 14:01:28,662 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 14:01:28,819 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_140126_chrome/01_successful_login.png
+DEBUG   2018-09-06 14:01:28,820 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 14:01:55,444 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 14:01:55,444 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 14:01:55,448 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 14:01:55,448 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 14:01:57,055 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 14:01:57,160 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 14:01:57,163 [environment] Running new scenario: successful login
+ERROR   2018-09-06 14:01:57,168 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 14:01:57,339 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_140155_chrome/01_successful_login.png
+DEBUG   2018-09-06 14:01:57,340 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 14:09:25,151 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 14:09:25,152 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 14:09:25,155 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 14:09:25,156 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 14:09:26,800 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 14:09:26,906 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 14:09:26,909 [environment] Running new scenario: successful login
+ERROR   2018-09-06 14:09:26,913 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 14:09:27,094 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_140925_chrome/01_successful_login.png
+DEBUG   2018-09-06 14:09:27,096 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 14:10:13,286 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 14:10:13,286 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 14:10:13,290 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 14:10:13,290 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 14:10:14,916 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 14:10:15,023 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 14:10:15,028 [environment] Running new scenario: successful login
+INFO    2018-09-06 14:10:18,888 [environment] The scenario 'successful login' has passed
+DEBUG   2018-09-06 14:19:04,965 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 14:19:04,965 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 14:19:04,969 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 14:19:04,969 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 14:19:06,598 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 14:19:06,702 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 14:19:06,703 [environment] Running new scenario: successful login
+ERROR   2018-09-06 14:19:11,780 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 14:19:11,913 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_141904_chrome/01_successful_login.png
+DEBUG   2018-09-06 14:19:11,914 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 14:19:51,229 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 14:19:51,229 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 14:19:51,233 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 14:19:51,233 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 14:19:52,835 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 14:19:52,943 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 14:19:52,947 [environment] Running new scenario: successful login
+ERROR   2018-09-06 14:19:58,048 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 14:19:58,174 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_141951_chrome/01_successful_login.png
+DEBUG   2018-09-06 14:19:58,175 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 14:22:03,390 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 14:22:03,390 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 14:22:03,394 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 14:22:03,394 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 14:22:05,018 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 14:22:05,123 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 14:22:05,126 [environment] Running new scenario: successful login
+ERROR   2018-09-06 14:22:10,177 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 14:22:10,290 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_142203_chrome/01_successful_login.png
+DEBUG   2018-09-06 14:22:10,292 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 14:22:58,143 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 14:22:58,143 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 14:22:58,147 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 14:22:58,147 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 14:22:59,741 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 14:22:59,848 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 14:22:59,852 [environment] Running new scenario: successful login
+ERROR   2018-09-06 14:23:04,891 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 14:23:05,007 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_142258_chrome/01_successful_login.png
+DEBUG   2018-09-06 14:23:05,008 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 14:23:44,255 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 14:23:44,255 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 14:23:44,259 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 14:23:44,259 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 14:23:45,888 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 14:23:45,996 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 14:23:46,000 [environment] Running new scenario: successful login
+DEBUG   2018-09-06 14:23:48,172 [login] Login with user 'tutorial'
+ERROR   2018-09-06 14:23:48,378 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 14:23:48,539 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_142344_chrome/01_successful_login.png
+DEBUG   2018-09-06 14:23:48,541 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 14:34:51,912 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 14:34:51,912 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 14:34:51,916 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 14:34:51,916 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 14:34:53,543 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 14:34:53,648 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 14:34:53,649 [environment] Running new scenario: successful login
+INFO    2018-09-06 14:34:56,844 [environment] The scenario 'successful login' has passed
+DEBUG   2018-09-06 14:35:44,698 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 14:35:44,698 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 14:35:44,702 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 14:35:44,702 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 14:35:46,330 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 14:35:46,436 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 14:35:46,439 [environment] Running new scenario: successful login
+ERROR   2018-09-06 14:35:48,346 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 14:35:48,493 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_143544_chrome/01_successful_login.png
+DEBUG   2018-09-06 14:35:48,494 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 14:36:40,513 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 14:36:40,514 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 14:36:40,518 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 14:36:40,518 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 14:36:42,124 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 14:36:42,232 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 14:36:42,235 [environment] Running new scenario: successful login
+INFO    2018-09-06 14:36:45,521 [environment] The scenario 'successful login' has passed
+DEBUG   2018-09-06 14:37:06,113 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 14:37:06,114 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 14:37:06,117 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 14:37:06,118 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 14:37:07,758 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 14:37:07,862 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 14:37:07,863 [environment] Running new scenario: successful login
+ERROR   2018-09-06 14:37:09,635 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 14:37:09,785 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_143706_chrome/01_successful_login.png
+DEBUG   2018-09-06 14:37:09,786 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 14:38:16,515 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 14:38:16,515 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 14:38:16,519 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 14:38:16,519 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 14:38:18,139 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 14:38:18,248 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 14:38:18,253 [environment] Running new scenario: successful login
+ERROR   2018-09-06 14:38:20,077 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 14:38:20,227 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_143816_chrome/01_successful_login.png
+DEBUG   2018-09-06 14:38:20,228 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 14:40:12,078 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 14:40:12,078 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 14:40:12,082 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 14:40:12,082 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 14:40:13,689 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 14:40:13,794 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 14:40:13,796 [environment] Running new scenario: successful login
+INFO    2018-09-06 14:40:16,729 [environment] The scenario 'successful login' has passed
+DEBUG   2018-09-06 14:40:46,986 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 14:40:46,986 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 14:40:46,990 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 14:40:46,990 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 14:40:48,626 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 14:40:48,730 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 14:40:48,732 [environment] Running new scenario: successful login
+INFO    2018-09-06 14:40:51,572 [environment] The scenario 'successful login' has passed
+DEBUG   2018-09-06 14:41:57,636 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 14:41:57,636 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 14:41:57,640 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 14:41:57,640 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 14:41:59,248 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 14:41:59,352 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 14:41:59,353 [environment] Running new scenario: successful login
+ERROR   2018-09-06 14:42:01,174 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 14:42:01,316 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_144157_chrome/01_successful_login.png
+DEBUG   2018-09-06 14:42:01,318 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 14:44:10,398 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 14:44:10,398 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 14:44:10,403 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 14:44:10,403 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 14:44:12,020 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 14:44:12,124 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 14:44:12,126 [environment] Running new scenario: successful login
+INFO    2018-09-06 14:44:15,331 [environment] The scenario 'successful login' has passed
+DEBUG   2018-09-06 14:47:36,097 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 14:47:36,097 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 14:47:36,102 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 14:47:36,102 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 14:47:38,252 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 14:47:38,357 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 14:47:38,359 [environment] Running new scenario: successful login
+ERROR   2018-09-06 14:47:38,363 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 14:47:38,519 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_144736_chrome/01_successful_login.png
+DEBUG   2018-09-06 14:47:38,521 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 14:50:15,173 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 14:50:15,173 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 14:50:15,177 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 14:50:15,178 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 14:50:16,841 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 14:50:16,946 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 14:50:16,947 [environment] Running new scenario: successful login
+ERROR   2018-09-06 14:50:16,951 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 14:50:17,104 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_145015_chrome/01_successful_login.png
+DEBUG   2018-09-06 14:50:17,105 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 14:50:37,446 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 14:50:37,446 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 14:50:37,450 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 14:50:37,450 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 14:50:39,060 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 14:50:39,167 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 14:50:39,169 [environment] Running new scenario: successful login
+INFO    2018-09-06 14:50:52,747 [environment] The scenario 'successful login' has passed
+DEBUG   2018-09-06 14:51:54,078 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 14:51:54,079 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 14:51:54,083 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 14:51:54,083 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 14:51:55,714 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 14:51:55,819 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 14:51:55,820 [environment] Running new scenario: successful login
+INFO    2018-09-06 14:52:09,299 [environment] The scenario 'successful login' has passed
+DEBUG   2018-09-06 14:52:13,354 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 14:52:13,354 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 14:52:13,358 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 14:52:13,358 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 14:52:14,994 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 14:52:15,098 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 14:52:15,099 [environment] Running new scenario: successful login
+INFO    2018-09-06 14:52:28,653 [environment] The scenario 'successful login' has passed
+DEBUG   2018-09-06 14:52:30,974 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 14:52:30,974 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 14:52:30,978 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 14:52:30,978 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 14:52:32,588 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 14:52:32,693 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 14:52:32,695 [environment] Running new scenario: successful login
+INFO    2018-09-06 14:52:46,218 [environment] The scenario 'successful login' has passed
+DEBUG   2018-09-06 14:53:43,470 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 14:53:43,470 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 14:53:43,474 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 14:53:43,474 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 14:53:45,137 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 14:53:45,241 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 14:53:45,243 [environment] Running new scenario: successful login
+INFO    2018-09-06 14:53:58,721 [environment] The scenario 'successful login' has passed
+DEBUG   2018-09-06 15:06:17,371 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 15:06:17,372 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 15:06:17,377 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 15:06:17,377 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 15:06:20,449 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 15:06:20,553 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 15:06:20,555 [environment] Running new scenario: successful login
+ERROR   2018-09-06 15:06:20,560 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 15:06:20,756 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_150617_chrome/01_successful_login.png
+DEBUG   2018-09-06 15:06:20,757 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 15:06:54,663 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 15:06:54,664 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 15:06:54,669 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 15:06:54,669 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 15:06:56,306 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 15:06:56,414 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 15:06:56,418 [environment] Running new scenario: successful login
+ERROR   2018-09-06 15:06:56,424 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 15:06:56,568 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_150654_chrome/01_successful_login.png
+DEBUG   2018-09-06 15:06:56,569 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 15:14:01,208 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 15:14:01,209 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 15:14:01,213 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 15:14:01,213 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 15:14:02,869 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 15:14:02,973 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 15:14:02,974 [environment] Running new scenario: successful login
+ERROR   2018-09-06 15:14:08,584 [page_element] Page element of type 'InputText' with locator ('name', 'email') not found
+ERROR   2018-09-06 15:14:08,588 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 15:14:08,706 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_151401_chrome/01_successful_login.png
+DEBUG   2018-09-06 15:14:08,707 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 15:14:59,504 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 15:14:59,505 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 15:14:59,509 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 15:14:59,509 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 15:15:01,172 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 15:15:01,277 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 15:15:01,279 [environment] Running new scenario: successful login
+INFO    2018-09-06 15:15:17,221 [environment] The scenario 'successful login' has passed
+DEBUG   2018-09-06 15:56:41,752 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 15:56:41,752 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 15:56:41,756 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 15:56:41,756 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 15:56:43,413 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 15:56:43,517 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 15:56:43,518 [environment] Running new scenario: Add an item
+ERROR   2018-09-06 15:56:43,520 [environment] The scenario 'Add an item' has failed
+INFO    2018-09-06 15:56:43,685 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_155641_chrome/01_Add_an_item.png
+DEBUG   2018-09-06 15:56:43,687 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 15:56:43,750 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 15:56:43,750 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 15:56:43,752 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 15:56:43,753 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 15:56:45,383 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 15:56:45,488 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 15:56:45,490 [environment] Running new scenario: successful login
+INFO    2018-09-06 15:56:59,420 [environment] The scenario 'successful login' has passed
+DEBUG   2018-09-06 15:56:59,490 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 15:56:59,491 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 15:56:59,494 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 15:56:59,495 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 15:57:01,119 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 15:57:01,222 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 15:57:01,224 [environment] Running new scenario: add an item
+ERROR   2018-09-06 15:57:01,225 [environment] The scenario 'add an item' has failed
+INFO    2018-09-06 15:57:01,372 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_155641_chrome/02_add_an_item.png
+DEBUG   2018-09-06 15:57:01,373 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 16:09:48,241 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 16:09:48,242 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 16:09:48,245 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 16:09:48,246 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 16:09:49,873 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 16:09:49,979 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 16:09:49,981 [environment] Running new scenario: Add an item
+ERROR   2018-09-06 16:09:49,984 [environment] The scenario 'Add an item' has failed
+INFO    2018-09-06 16:09:50,146 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_160948_chrome/01_Add_an_item.png
+DEBUG   2018-09-06 16:09:50,147 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 16:09:50,213 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 16:09:50,213 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 16:09:50,216 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 16:09:50,216 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 16:09:51,866 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 16:09:51,969 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 16:09:51,970 [environment] Running new scenario: successful login
+INFO    2018-09-06 16:10:06,768 [environment] The scenario 'successful login' has passed
+DEBUG   2018-09-06 16:10:06,835 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 16:10:06,835 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 16:10:06,837 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 16:10:06,837 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 16:10:08,454 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 16:10:08,560 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 16:10:08,561 [environment] Running new scenario: add an item
+ERROR   2018-09-06 16:10:08,562 [environment] The scenario 'add an item' has failed
+INFO    2018-09-06 16:10:08,709 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_160948_chrome/02_add_an_item.png
+DEBUG   2018-09-06 16:10:08,710 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 16:10:55,637 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 16:10:55,638 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 16:10:55,641 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 16:10:55,642 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 16:10:57,284 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 16:10:57,393 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 16:10:57,397 [environment] Running new scenario: Add an item
+ERROR   2018-09-06 16:10:57,402 [environment] The scenario 'Add an item' has failed
+INFO    2018-09-06 16:10:57,578 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_161055_chrome/01_Add_an_item.png
+DEBUG   2018-09-06 16:10:57,579 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 16:10:57,644 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 16:10:57,644 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 16:10:57,648 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 16:10:57,648 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 16:10:59,294 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 16:10:59,398 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 16:10:59,400 [environment] Running new scenario: successful login
+ERROR   2018-09-06 16:11:13,277 [page_element] Page element of type 'InputText' with locator ('name', 'email') not found
+ERROR   2018-09-06 16:11:13,281 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 16:11:13,403 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_161055_chrome/02_successful_login.png
+DEBUG   2018-09-06 16:11:13,404 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 16:11:13,469 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 16:11:13,470 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 16:11:13,473 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 16:11:13,473 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 16:11:15,107 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 16:11:15,213 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 16:11:15,216 [environment] Running new scenario: add an item
+ERROR   2018-09-06 16:11:15,218 [environment] The scenario 'add an item' has failed
+INFO    2018-09-06 16:11:15,369 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_161055_chrome/03_add_an_item.png
+DEBUG   2018-09-06 16:11:15,370 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 16:25:08,645 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 16:25:08,645 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 16:25:08,650 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 16:25:08,650 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 16:25:10,317 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 16:25:10,422 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 16:25:10,424 [environment] Running new scenario: successful login
+ERROR   2018-09-06 16:25:15,621 [page_element] Page element of type 'InputText' with locator ('name', 'email') not found
+ERROR   2018-09-06 16:25:15,624 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 16:25:15,755 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_162508_chrome/01_successful_login.png
+DEBUG   2018-09-06 16:25:15,757 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 16:25:15,827 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 16:25:15,827 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 16:25:15,829 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 16:25:15,829 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 16:25:17,574 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 16:25:17,681 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 16:25:17,683 [environment] Running new scenario: add an item
+ERROR   2018-09-06 16:25:17,686 [environment] The scenario 'add an item' has failed
+INFO    2018-09-06 16:25:17,847 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_162508_chrome/02_add_an_item.png
+DEBUG   2018-09-06 16:25:17,849 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 16:25:26,320 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 16:25:26,320 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 16:25:26,326 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 16:25:26,326 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 16:25:28,017 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 16:25:28,123 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 16:25:28,125 [environment] Running new scenario: successful login
+ERROR   2018-09-06 16:25:33,358 [page_element] Page element of type 'InputText' with locator ('name', 'email') not found
+ERROR   2018-09-06 16:25:33,360 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 16:25:33,473 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_162526_chrome/01_successful_login.png
+DEBUG   2018-09-06 16:25:33,475 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 16:25:33,543 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 16:25:33,544 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 16:25:33,547 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 16:25:33,548 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 16:25:35,243 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 16:25:35,350 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 16:25:35,353 [environment] Running new scenario: add an item
+ERROR   2018-09-06 16:25:35,355 [environment] The scenario 'add an item' has failed
+INFO    2018-09-06 16:25:35,501 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_162526_chrome/02_add_an_item.png
+DEBUG   2018-09-06 16:25:35,502 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 16:26:00,745 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 16:26:00,745 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 16:26:00,749 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 16:26:00,749 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 16:26:02,430 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 16:26:02,534 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 16:26:02,535 [environment] Running new scenario: successful login
+INFO    2018-09-06 16:26:17,255 [environment] The scenario 'successful login' has passed
+DEBUG   2018-09-06 16:45:09,391 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 16:45:09,391 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 16:45:09,395 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 16:45:09,395 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 16:45:11,016 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 16:45:11,120 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 16:45:11,121 [environment] Running new scenario: successful login
+ERROR   2018-09-06 16:45:11,124 [environment] The scenario 'successful login' has failed
+INFO    2018-09-06 16:45:11,265 [utils] Screenshot saved in /home/kineticskunk/Downloads/mercury/output/screenshots/2018-09-06_164509_chrome/01_successful_login.png
+DEBUG   2018-09-06 16:45:11,266 [utils] Reading logs from 'browser, driver' and writing them to log files
+DEBUG   2018-09-06 16:47:20,184 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/conf/properties.cfg
+DEBUG   2018-09-06 16:47:20,184 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/conf/local-properties.cfg
+INFO    2018-09-06 16:47:20,188 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 16:47:20,188 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 16:47:21,814 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 16:47:21,921 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 16:47:21,925 [environment] Running new scenario: successful login
+INFO    2018-09-06 16:47:36,190 [environment] The scenario 'successful login' has passed
+DEBUG   2018-09-06 17:04:08,371 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/mercury/Bonga/conf/properties.cfg
+DEBUG   2018-09-06 17:04:08,372 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/mercury/Bonga/conf/local-properties.cfg
+INFO    2018-09-06 17:04:08,375 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-06 17:04:08,376 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-06 17:04:10,007 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-06 17:04:10,115 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-06 17:04:10,118 [environment] Running new scenario: successful login
+INFO    2018-09-06 17:04:24,496 [environment] The scenario 'successful login' has passed
