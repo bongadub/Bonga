@@ -45,13 +45,15 @@ from pageobjects.message import MessagePageObject
 from pageobjects.secure_area import SecureAreaPageObject
 
 
-class LoginPageObject(PageObject):
+class LoginPage(PageObject):
     def init_page_elements(self):
         self.username = InputText(By.NAME, 'email')
         self.password = InputText(By.NAME, 'passwd')
         self.login_button = Button(By.ID, 'SubmitLogin')
 
         self.message = MessagePageObject()
+        
+
 
     def open(self):
         """ Open login url in browser
@@ -78,7 +80,6 @@ class LoginPageObject(PageObject):
         #self.logger.debug("Login with user '%s'", user['username'])
         self.username.text = user['username']
         self.password.text = user['password']
-        time.sleep(5)
+        time.sleep(3)
         self.login_button.click()
-        time.sleep(5)
-       # return SecureAreaPageObject(self.driver_wrapper)
+        time.sleep(3)
