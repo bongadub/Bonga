@@ -573,3 +573,11 @@ DEBUG   2018-09-06 17:04:10,007 [driver_wrapper] Window bounds: 0 x 0
 DEBUG   2018-09-06 17:04:10,115 [driver_wrapper] Window size: 1535 x 876
 INFO    2018-09-06 17:04:10,118 [environment] Running new scenario: successful login
 INFO    2018-09-06 17:04:24,496 [environment] The scenario 'successful login' has passed
+DEBUG   2018-09-12 16:13:59,553 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/Bonga/conf/properties.cfg
+DEBUG   2018-09-12 16:13:59,553 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/Bonga/conf/local-properties.cfg
+INFO    2018-09-12 16:13:59,557 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-12 16:13:59,557 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-12 16:14:01,198 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-12 16:14:01,303 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-12 16:14:01,306 [environment] Running new scenario: successful login
+INFO    2018-09-12 16:14:15,343 [environment] The scenario 'successful login' has passed
