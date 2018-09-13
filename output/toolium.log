@@ -42,3 +42,19 @@ DEBUG   2018-09-12 16:11:51,845 [config_parser] Reading properties from file: /h
 DEBUG   2018-09-12 16:11:51,846 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/Bonga/conf/local-properties.cfg
 INFO    2018-09-12 16:11:51,856 [config_driver] Creating local driver (type = chrome)
 DEBUG   2018-09-12 16:11:51,857 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-13 09:35:52,161 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/Bonga/conf/properties.cfg
+DEBUG   2018-09-13 09:35:52,162 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/Bonga/conf/local-properties.cfg
+INFO    2018-09-13 09:35:52,166 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-13 09:35:52,166 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-13 09:35:54,771 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-13 09:35:54,879 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-13 09:35:54,882 [environment] Running new scenario: successful login
+INFO    2018-09-13 09:36:05,697 [environment] The scenario 'successful login' has passed
+DEBUG   2018-09-13 09:36:05,768 [config_parser] Reading properties from file: /home/kineticskunk/Downloads/Bonga/conf/properties.cfg
+DEBUG   2018-09-13 09:36:05,768 [config_parser] Properties config file not found: /home/kineticskunk/Downloads/Bonga/conf/local-properties.cfg
+INFO    2018-09-13 09:36:05,771 [config_driver] Creating local driver (type = chrome)
+DEBUG   2018-09-13 09:36:05,771 [config_driver] Chrome driver path given in properties: /usr/local/bin/chromedriver
+DEBUG   2018-09-13 09:36:07,351 [driver_wrapper] Window bounds: 0 x 0
+DEBUG   2018-09-13 09:36:07,462 [driver_wrapper] Window size: 1535 x 876
+INFO    2018-09-13 09:36:07,463 [environment] Running new scenario: Process of buying an item
+INFO    2018-09-13 09:37:16,377 [environment] The scenario 'Process of buying an item' has passed
